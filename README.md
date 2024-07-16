@@ -4,7 +4,7 @@ This is a responsive web application built using modern web technologies. It inc
 
 ## Table of Contents
 
-- [Dalag Project](#dalag-project)
+- [afyamax Project](#afyamax-project)
   - [Table of Contents](#table-of-contents)
   - [Technologies Used](#technologies-used)
   - [Installation](#installation)
@@ -32,11 +32,11 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/dalag.git
+   git clone https://github.com/your-username/afyamax.git
 
 2. **Navigate to the project directory:**
    ```bash
-   cd dalag
+   cd afyamax
    
 3. **Install dependencies:**
    ```bash
@@ -58,7 +58,7 @@ Follow these steps to set up the project on your local machine:
   
 7. **Open the application:**
 
-- Open your browser and navigate to http://localhost/dalag.
+- Open your browser and navigate to http://localhost/afyamax.
 
 # Usage
 
